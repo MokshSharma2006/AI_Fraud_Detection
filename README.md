@@ -186,9 +186,9 @@ Procurement oversight
 
 Policy impact analysis
 
-
-<p align="center">
-  <img src="Images/T_Output.png" width="900">
+## Terminal Output
+<p align="left">
+  <img src="Images/T_Output.png" width="400">
 </p>
 
 
