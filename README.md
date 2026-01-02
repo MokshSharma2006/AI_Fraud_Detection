@@ -192,4 +192,15 @@ Policy impact analysis
 </p>
 
 
+## Dashboard Output
+<p align="left">
+  <img src="Images/U_Output.png" width="400">
+</p>
 
+<p align="left">
+  <img src="Images/U_Output-1.png" width="400">
+</p>
+
+<p align="left">
+  <img src="Images/U_Output-2.png" width="400">
+</p>
