@@ -187,6 +187,7 @@ Procurement oversight
 
 ## Terminal Output
 
+!Run in Command Prompt (Images/T_Output.png)
 
 
 
