@@ -190,5 +190,5 @@ Policy impact analysis
 
 ## Terminal Output
 
-![Run in Command Prompt] (Images/T_Output.png)
+![Run in Command Prompt] (images/T_Output.png)
 
