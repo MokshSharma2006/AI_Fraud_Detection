@@ -184,13 +184,11 @@ Public finance monitoring
 
 Procurement oversight
 
+Policy impact analysis
+
+
 
 ## Terminal Output
 
-!Run in Command Prompt (Images/T_Output.png)
-
-
-
-Policy impact analysis
-
+!Run in Command Prompt Images/T_Output.png
 
