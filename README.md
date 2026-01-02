@@ -38,6 +38,10 @@ This project addresses the problem by:
 │   │   ├── fraud_train_preprocessed.csv
 │   │   ├── paysim.csv
 │   │   ├── receiver_general.csv
+│   ├── model/
+│   │   ├── isolation_forest.pkl    [auto generated]
+│   ├── output/
+│   │   ├── fraud_result.csv   [auto generated]
 │   ├── main.py
 │   ├── dashboard.py
 ```
@@ -88,7 +92,13 @@ output/fraud_results.csv → Fraud risk analysis
 model/isolation_forest.pkl → Trained AI model
 
 
-## 📊 Running the Dashboard
+## 📊 Running 
+
+Use the Terminal to Launch Main.py
+
+```
+python main.py
+```
 
 Launch the interactive dashboard using:
 ```
