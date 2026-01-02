@@ -30,23 +30,24 @@ This project addresses the problem by:
 ---
 
 ## 🗂️ Project File Structure
-Fraud_Ai_Project/
-│
-├── data/ # Input datasets (CSV format)
-│ ├── creditcard.csv
-│ ├── fraud_train_preprocessed.csv
-│ ├── paysim.csv
-│ └── receiver_general.csv
-│
-├── model/ # Trained ML model
-│ └── isolation_forest.pkl
-│
-├── output/ # AI-generated results
-│ └── fraud_results.csv
-│
-├── main.py # AI training & fraud detection pipeline
-├── dashboard.py # Streamlit dashboard
-└── README.md
+
+### Fraud_Ai_Project/
+### │
+### ├── data/ # Input datasets (CSV format)
+### │ ├── creditcard.csv
+### │ ├── fraud_train_preprocessed.csv
+### │ ├── paysim.csv
+### │ └── receiver_general.csv
+### │
+### ├── model/ # Trained ML model
+### │ └── isolation_forest.pkl
+### │
+### ├── output/ # AI-generated results
+### │ └── fraud_results.csv
+### │
+### ├── main.py # AI training & fraud detection pipeline
+### ├── dashboard.py # Streamlit dashboard
+### └── README.md
 
 
 
@@ -65,15 +66,15 @@ Fraud_Ai_Project/
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
+```
 git clone https://github.com/your-username/fraud-ai-project.git
 cd fraud-ai-project
-
-
+```
+```
 python -m pip install pandas numpy scikit-learn joblib streamlit plotly
+```
 
-
-⚙️ Running the AI Pipeline
+## ⚙️ Running the AI Pipeline
 
 This step:
 
@@ -94,19 +95,20 @@ output/fraud_results.csv → Fraud risk analysis
 model/isolation_forest.pkl → Trained AI model
 
 
-📊 Running the Dashboard
+## 📊 Running the Dashboard
 
 Launch the interactive dashboard using:
-
+```
 python -m streamlit run dashboard.py
-
+```
 
 Open your browser at:
-
+```
 http://localhost:8501
+```
 
+## 🧠 How the System Works
 
-🧠 How the System Works
 Step 1: Data Ingestion
 
 Multiple financial datasets (banking, digital payments, procurement, accounting) are loaded.
@@ -159,7 +161,7 @@ Vendor risk ranking
 
 Interactive transaction drill-down
 
-🧑‍⚖️ Ethics & Governance
+## 🧑‍⚖️ Ethics & Governance
 
 ✔ No automated punishment
 
@@ -169,7 +171,7 @@ Interactive transaction drill-down
 
 ✔ Bias-aware, explainable AI
 
-🎯 Use Cases
+## 🎯 Use Cases
 
 Government audit departments
 
@@ -181,16 +183,4 @@ Procurement oversight
 
 Policy impact analysis
 
-🏆 Hackathon Highlights
 
-End-to-end working system
-
-Realistic governance use case
-
-AI + dashboard integration
-
-Scalable and deployable design
-
-📜 License
-
-This project is for educational and hackathon purposes.
