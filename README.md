@@ -31,23 +31,16 @@ This project addresses the problem by:
 
 ## 🗂️ Project File Structure
 
-### Fraud_Ai_Project/
-### │
-### ├── data/ # Input datasets (CSV format)
-### │ ├── creditcard.csv
-### │ ├── fraud_train_preprocessed.csv
-### │ ├── paysim.csv
-### │ └── receiver_general.csv
-### │
-### ├── model/ # Trained ML model
-### │ └── isolation_forest.pkl
-### │
-### ├── output/ # AI-generated results
-### │ └── fraud_results.csv
-### │
-### ├── main.py # AI training & fraud detection pipeline
-### ├── dashboard.py # Streamlit dashboard
-### └── README.md
+```
+├── Fraud_Ai_Project/
+│   ├── data/
+│   │   ├── creditcard.csv
+│   │   ├── fraud_train_preprocessed.csv
+│   │   ├── paysim.csv
+│   │   ├── receiver_general.csv
+│   ├── main.py
+│   ├── dashboard.py
+```
 
 
 
