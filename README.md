@@ -192,5 +192,5 @@ Policy impact analysis
 
 ! [Run in Command Prompt] (Images/T_Output.png)
 ## Project Architecture
-![System Architecture](images/T_Output.png)
+![System Architecture](Images/T_Output.png)
 
