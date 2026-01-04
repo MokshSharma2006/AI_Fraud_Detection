@@ -203,6 +203,8 @@ Policy impact analysis
   <img src="Images/U_Output-1.png" width="400">
 </p>
 
+<!-- new -->
+
 <p align="left">
   <img src="Images/U_Output-2.png" width="400">
 </p>
