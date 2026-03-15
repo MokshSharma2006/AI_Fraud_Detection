@@ -148,7 +148,7 @@ Low Risk
 
 Medium Risk
 
-High Risk.
+High Risk
 
 ⚠️ The system does not auto-accuse fraud — it flags transactions for human audit review.
 
